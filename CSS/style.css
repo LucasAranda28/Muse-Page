@@ -14,7 +14,7 @@ footer {
 }
 
 header {
-  background-color: #31322e;
+  background-color: red;
   display: flex;
   align-items: center;
   padding: 20px;
@@ -42,7 +42,7 @@ header div a {
 .encabezado {
   display: block;
   color: white;
-  background-color: red;
+  background-color: black;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2em;

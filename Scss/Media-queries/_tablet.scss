@@ -1,12 +1,11 @@
-// @media screen and ( min-width: 768px){
-//     body{
-//         header{
-//         div{
-//             .encabezado{
-//                 background-color: red;
-//                 color: black;
-//         }
-//         }
-//     }
-// }
-// }
+@media (min-width: 768px) {
+    body {
+        header {
+            div {
+                .encabezado {
+                    background-color: green;
+                }
+            }
+        }
+    }
+}

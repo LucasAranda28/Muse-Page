@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+@media (min-width: 768px) {
+  .encabezado {
+    color: red;
+    background-color: white;
+  }
+}
 footer {
   color: white;
 }
@@ -14,7 +20,7 @@ footer {
 }
 
 header {
-  background-color: red;
+  background-color: #31322e;
   display: flex;
   align-items: center;
   padding: 20px;
@@ -41,8 +47,8 @@ header div a {
 
 .encabezado {
   display: block;
-  color: white;
-  background-color: black;
+  color: red;
+  background-color: blue;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2em;
